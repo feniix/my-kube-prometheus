@@ -1,0 +1,6 @@
+{
+  "jsonnet.languageServer.jpath": [
+    "vendor"
+  ],
+  "jsonnet.languageServer.lint": true
+}
